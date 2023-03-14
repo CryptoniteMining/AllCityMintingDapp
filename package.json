@@ -9,6 +9,7 @@
     "@walletconnect/web3-provider": "^1.7.5",
     "@webassemblyjs/ieee754": "^1.11.1",
     "all": "^0.0.0",
+    "assert": "^2.0.0",
     "dependencies": "^0.0.1",
     "keccak256": "^1.0.6",
     "merkletreejs": "^0.2.27",
