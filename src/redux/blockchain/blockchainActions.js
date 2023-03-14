@@ -41,11 +41,11 @@ const providerOptions = {
         networkUrl: "https://mainnet.infura.io/v3/a36cccb119624eaa8ac337a0b8ffce41",
         chainId: 1,
     },
-    package: WalletLink,
+    package: Walletsdk,
     connector: async (_, options) => {
       const { appName, chainId } = options;
-      const walletLink = new WalletLink({appName});
-      const provider = walletLink.makeWeb3Provider(chainId);
+      const Walletsdk = new Walletsdk({appName});
+      const provider = Walletsdk.makeWeb3Provider(chainId);
       await provider.enable();
       return provider;
     },
