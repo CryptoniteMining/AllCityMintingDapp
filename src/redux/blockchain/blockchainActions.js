@@ -3,7 +3,7 @@ import Web3EthContract from "web3-eth-contract";
 import Web3 from "web3";
 import Web3Modal from "web3modal";
 import WalletConnectProvider from "@walletconnect/web3-provider";
-import WalletLink from "walletlink";
+import Walletsdk from "@coinbase/wallet-sdk";
 
 // log
 import { fetchData } from "../data/dataActions";
