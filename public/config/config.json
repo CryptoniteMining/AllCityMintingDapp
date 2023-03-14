@@ -1,0 +1,21 @@
+{
+  "CONTRACT_ADDRESS": "0x760C355b8E3DBdA999CC7f41B9278104B782d235",
+  "SCAN_LINK": "https://etherscan.io/address/0x760C355b8E3DBdA999CC7f41B9278104B782d235",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "AllCityHelios",
+  "SYMBOL": "ROOK",
+  "MAX_SUPPLY": 6000,
+  "WEI_COST": 50000000000000000,
+  "WL_COST": 50000000000000000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "OpenSea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/grimmies-by-webacy",
+  "SHOW_BACKGROUND": true,
+  "WEBSITE_LINK": "https://www.allcityhelios.com/",
+  "HOMEPAGE_LINK": "https://allcityrooks.xyz"
+}
