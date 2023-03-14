@@ -14,7 +14,7 @@ const providerOptions = {
   walletconnect: {
     package: WalletConnectProvider, // required
     options: {
-      infuraId: INFURA_ID, // required
+      infuraId: "27e484dcd9e3efcfd25a83a78777cdf1", // required
       rpc: {
         1: "https://mainnet.infura.io/v3/a36cccb119624eaa8ac337a0b8ffce41", // Mainnet
       },
