@@ -20,8 +20,8 @@ const providerOptions = {
       },
     },
   },
-  walletlink: {
-    package: WalletLink, // Required
+  Walletsdk: {
+    package: Walletsdk, // Required
     options: {
       appName: "Rooks", // Required
       infuraId: "", // Required unless you provide a JSON RPC url; see rpc below
