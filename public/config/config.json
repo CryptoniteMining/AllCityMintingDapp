@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0x760C355b8E3DBdA999CC7f41B9278104B782d235",
-  "SCAN_LINK": "https://etherscan.io/address/0x760C355b8E3DBdA999CC7f41B9278104B782d235",
+  "CONTRACT_ADDRESS": "0x8eB7C8854E5DdAbe34bACAd6636032b336480122",
+  "SCAN_LINK": "https://goerli.etherscan.io/address/0x8eb7c8854e5ddabe34bacad6636032b336480122",
   "NETWORK": {
     "NAME": "Goerli test network",
     "SYMBOL": "GoerliETH",
@@ -14,7 +14,7 @@
   "DISPLAY_COST": 0.05,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "OpenSea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/grimmies-by-webacy",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/allcity",
   "SHOW_BACKGROUND": true,
   "WEBSITE_LINK": "https://www.allcityhelios.com/",
   "HOMEPAGE_LINK": "https://allcityrooks.xyz"
