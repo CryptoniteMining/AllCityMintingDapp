@@ -2,8 +2,8 @@
   "CONTRACT_ADDRESS": "0x760C355b8E3DBdA999CC7f41B9278104B782d235",
   "SCAN_LINK": "https://etherscan.io/address/0x760C355b8E3DBdA999CC7f41B9278104B782d235",
   "NETWORK": {
-    "NAME": "Ethereum",
-    "SYMBOL": "ETH",
+    "NAME": "Goerli test network",
+    "SYMBOL": "GoerliETH",
     "ID": 1
   },
   "NFT_NAME": "AllCityHelios",
